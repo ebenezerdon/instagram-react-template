@@ -10,7 +10,7 @@ const Bio = () => {
             <p className="name">Jane Butters</p>
             <button>follow</button>
         </div>
-    </section>
+      </section>
     )
 }
 
