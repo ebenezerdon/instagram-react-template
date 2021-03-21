@@ -11,7 +11,7 @@ const Gallery = () => {
   return (
     <>
       <input type="file" name="photo" id="addPhotoInput" />
-      <label form="addPhotoInput">
+      <label htmlFor="addPhotoInput">
         <i className="add-photo fas fa-plus-square" />
       </label>
       <div className="gallery-nav" />
